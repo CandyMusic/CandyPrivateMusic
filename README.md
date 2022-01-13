@@ -1,4 +1,4 @@
-[![Abhimanyu].(https://t.me/AlishaSupport)
+[![Abhimanyu](https://t.me/AlishaSupport)
 
 
 
