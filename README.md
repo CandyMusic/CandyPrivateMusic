@@ -1,4 +1,4 @@
-[![Abhimanyu](https://img.shields.io/badge/-%CA%9C%E1%B4%87x%E1%B4%8F%CA%80-yellowgreen)](https://t.me/AlishaSupport)
+[![Abhimanyu.https://t.me/AlishaSupport)
 
 
 
