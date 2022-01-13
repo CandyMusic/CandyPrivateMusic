@@ -1,4 +1,4 @@
-git+https://github.com/ophexor/yt-dl@master
+https://github.com/CandyMusic/yt-dl@master
 pyrogram
 TgCrypto
 py-tgcalls
