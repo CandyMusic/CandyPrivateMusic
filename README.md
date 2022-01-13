@@ -10,9 +10,13 @@
 [![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/CandyMusic/CandyPrivateMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 
-ꜱᴛʀɪɴɢ ɴᴀᴍᴇ:
+### Get String Session
 
-[![GenerateString] 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/StringGeneratorRobot)
+
+
+
+
 
 
 
