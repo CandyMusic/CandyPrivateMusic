@@ -1,4 +1,4 @@
-https://github.com/CandyMusic/yt-dl@master
+git+https://github.com/CandyMusic/yt-dl@master
 pyrogram
 TgCrypto
 py-tgcalls
