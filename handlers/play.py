@@ -162,21 +162,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💕",
+                            text="⠂ ᴄʜᴀɴɴᴇʟ",
                             url=f"https://t.me/Pubglovers_shayri_lovers")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝐊𝐢𝐍𝐆 💞",
-                            url=f"https://t.me/Itz_Venom_xD"),
+                            text="⠂ Qᴜᴇᴇɴ",
+                            url=f"https://t.me/Candy_626"),
                             
                     InlineKeyboardButton(
-                            text="𝐐𝐔𝐄𝐄𝐍 💞",
-                            url=f"https://t.me/Candy_626")
+                            text="⠂ ᴋɪɴɢ",
+                            url=f"https://t.me/Itz_Venom_xD")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩 💕",
+                            text="⠂ ɢʀᴏᴜᴘ",
                             url=f"https://t.me/Shayri_Music_Lovers")
                    
                 ]
@@ -215,21 +215,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💕",
+                            text="⠂ ᴄʜᴀɴɴᴇʟ",
                             url=f"https://t.me/Pubglovers_shayri_lovers")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝐊𝐢𝐍𝐆 💞",
-                            url=f"https://t.me/Itz_Venom_xD"),
+                            text="⠂ Qᴜᴇᴇɴ",
+                            url=f"https://t.me/Candy_626"),
                             
                     InlineKeyboardButton(
-                            text="𝐐𝐔𝐄𝐄𝐍 💞",
-                            url=f"https://t.me/Candy_626")
+                            text="⠂ ᴋɪɴɢ",
+                            url=f"https://t.me/Itz_Venom_xD")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩 💕",
+                            text="⠂ ɢʀᴏᴜᴘ",
                             url=f"https://t.me/Shayri_Music_Lovers")
                    
                 ]
@@ -245,21 +245,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💕",
+                            text="⠂ ᴄʜᴀɴɴᴇʟ",
                             url=f"https://t.me/Pubglovers_shayri_lovers")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝐊𝐢𝐍𝐆 💞",
-                            url=f"https://t.me/Itz_Venom_xD"),
+                            text="⠂ Qᴜᴇᴇɴ",
+                            url=f"https://t.me/Candy_626"),
                             
                     InlineKeyboardButton(
-                            text="𝐐𝐔𝐄𝐄𝐍 💞",
-                            url=f"https://t.me/Candy_626")
+                            text="⠂ ᴋɪɴɢ",
+                            url=f"https://t.me/Itz_Venom_xD")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩 💕",
+                            text="⠂ ɢʀᴏᴜᴘ",
                             url=f"https://t.me/Shayri_Music_Lovers")
                    
                 ]
@@ -313,21 +313,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💕",
+                            text="⠂ ᴄʜᴀɴɴᴇʟ",
                             url=f"https://t.me/Pubglovrs_Shayri_lovers")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝐊𝐢𝐍𝐆 💞",
+                            text="⠂ Qᴜᴇᴇɴ",
                             url=f"https://t.me/Itz_Venom_xD"),
                             
                     InlineKeyboardButton(
-                            text="𝐐𝐔𝐄𝐄𝐍 💞",
+                            text="⠂ ᴋɪɴɢ",
                             url=f"https://t.me/Candy_626")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩 💕",
+                            text="⠂ ɢʀᴏᴜᴘ",
                             url=f"https://t.me/Shayri_Music_Lovers")
                    
                 ]
@@ -350,7 +350,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****❰ ƈǟռɖʏ 💞 ʍʊֆɨƈ'Ӽ ❱ 𝐒𝐨𝐧𝐠 ❤️ 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧 💫🤟** {}**".format(position),
+            caption="****❰ Ｃａη𝕕Ў 💢 ᗰ𝓊s𝒾𝓬'𝕏 ❱ 𝐒𝐨𝐧𝐠 ❤️ 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧 💫🤟** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -367,7 +367,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**❰ ƈǟռɖʏ 💞 ʍʊֆɨƈ'Ӽ ❱ Now 😄 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 📀 𝐀𝐭 🤟 `{}`...**".format(
+            caption="**❰ Ｃａη𝕕Ў 💢 ᗰ𝓊s𝒾𝓬'𝕏 ❱ Now 😄 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 📀 𝐀𝐭 🤟 `{}`...**".format(
         message.chat.title
         ), )
 
